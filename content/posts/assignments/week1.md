@@ -3,6 +3,7 @@ title: "Week 1"
 date: "2024-12-12"
 description: "Write-Up for week 1 alongside Password Generator Assignment"
 tags: ["html", "css", "js", "basic"]
+weight: 1
 ---
 # Week 1 Report
 * **Variables**: Dynamically typed, Assigned using `var`, `let` or `const`
