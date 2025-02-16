@@ -19,4 +19,4 @@ NOTE: The writeup is in handwritten pdf format as typing it down wasn't an optio
 time.
 ```
 
-Writeup: [PDF](/pdfs/week2_writeup.pdf)
+Writeup: [PDF](iic-fgp/pdfs/week2_writeup.pdf)
