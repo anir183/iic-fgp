@@ -1,0 +1,75 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "IIC FGP"
+description: "Write-Up and Assignment submissions for IIC's FGP"
+theme: ["PaperMod"]
+mainsections: ["posts"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+pagination:
+  pagerSize: 5
+
+params:
+  author: anir183
+  defaultTheme: dark
+  disableThemeToggle: true
+  hideFooter: true
+  disableScrollToTop: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  comments: false
+  displayFullLangName: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true
+  ShowPostNawLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: false
+  profileMode:
+    enabled: false
+  homeInfoParams:
+    Title: Submissions for IIC's Freshers Grooming Programme
+    Content: >
+      This page contains my write-ups and assignment submissions made for the IIC Freshers Grooming 
+      Programme initialive.  
+        
+      To view the source on github, click on the github icon below.
+  socialIcons:
+    - name: github
+      title: view source on github
+      url: "https://github.com/anir183/iic-fgp"
+
+menu:
+  main:
+    - identifier: Assignments
+      name: Assignments
+      url: /
+      weight: 10
+    - identifier: Timeline
+      name: Timeline
+      url: /timeline/
+      weight: 20
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 40
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
