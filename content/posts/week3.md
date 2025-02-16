@@ -307,11 +307,10 @@ The `"scripts"` property of your `package.json` file supports a number of built-
 ###  Create a simple server using Node.js, send request, get response, and get the idea of how a server is created and how it manages requests, responses
 There are several methods of creating a simple server in NodeJS. The built-it HTTP module (mentioned in above sections) can be used for doing so. Another popular method is using the Express.js NPM package for this. I use both methods for demonstration.
 
-```
-NOTE: There is no deployment as static sites cant host backend code
-However you can still take a look at the code at:
-https://github.com/anir183/iic-fgp/tree/main/static/week3-simplenodeserver
-```
+{{< notice >}}
+NOTE: There is no deployment as static sites cant host backend code.  
+However you can still take a look at the code at: https://github.com/anir183/iic-fgp/tree/main/static/week3-simplenodeserver
+{{< /notice >}}
 
 
 ##### Creating a node project -
