@@ -50,8 +50,8 @@ params:
 
 menu:
   main:
-    - identifier: Assignments
-      name: Assignments
+    - identifier: Submissions
+      name: Submissions
       url: /
       weight: 10
     - identifier: Timeline
