@@ -2,7 +2,7 @@
 title: "Week 2"
 date: "2024-12-24"
 description: "Write-Up for week 2"
-tags: ["js", "moderate"]
+tags: ["js", "writeup", "moderate"]
 weight: 2
 ---
 # Week 2 Report

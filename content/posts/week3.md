@@ -2,7 +2,7 @@
 title: "Week 3"
 date: "2025-02-07"
 description: "Write-Up for week 3 and basic nodejs server project"
-tags: ["js", "node", "moderate"]
+tags: ["js", "node", "writeup", "assignment", "basic", "moderate"]
 weight: 3
 ---
 # Week 3 Report
