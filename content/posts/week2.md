@@ -19,3 +19,5 @@ The writeup is in handwritten pdf format as typing it down wasn't an option at t
 {{< /notice >}}
 
 Writeup: [PDF](/iic-fgp/pdfs/week2_writeup.pdf)
+
+---
