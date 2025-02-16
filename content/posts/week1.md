@@ -67,6 +67,6 @@ weight: 1
 
 ### Submission
 Code: https://github.com/anir183/iic-fgp/tree/main/static/week1-passgen  
-Website: [https://anir183.github.io/iic-fgp/week1-passgen](iic-fgp/week1-passgen)  
+Website: [https://anir183.github.io/iic-fgp/week1-passgen](/iic-fgp/week1-passgen)  
   
-![project-image](iic-fgp/images/week1_project.png)
+![project-image](/iic-fgp/images/week1_project.png)
