@@ -15,8 +15,7 @@ weight: 2
 * Node.js and its frameworks, database
 
 {{< notice >}}
-NOTE: The writeup is in handwritten pdf format as typing it down wasn't an option at this
-time.
+The writeup is in handwritten pdf format as typing it down wasn't an option at this time.
 {{< /notice >}}
 
 Writeup: [PDF](/iic-fgp/pdfs/week2_writeup.pdf)
