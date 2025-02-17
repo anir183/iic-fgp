@@ -42,11 +42,14 @@ params:
       This page contains my write-ups and assignment submissions made for the IIC Freshers Grooming 
       Programme initialive.  
         
-      To view the source on github, click on the github icon below.
+      To view the source files of the writeup or assignments on github, click on either github icons below.
   socialIcons:
     - name: github
-      title: view source on github
-      url: "https://github.com/anir183/iic-fgp"
+      title: view writeup sources on github
+      url: "https://github.com/anir183/iic-fgp/tree/main/content/posts"
+    - name: github
+      title: view assignment sources on github
+      url: "https://github.com/anir183/iic-fgp/tree/main/static"
 
 menu:
   main:
